@@ -1,5 +1,5 @@
 import random
-
+#Salut Giovanni 
 # VARIABLES GLOBALES :
 
 n = -1
